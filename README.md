@@ -1,2 +1,2 @@
-# student-api
+# Student API
 Simple API using MongoDB.
